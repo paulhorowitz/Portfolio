@@ -5,11 +5,7 @@
 .card {
   background-color: rgba(203,240,171,.2);
   backdrop-filter: blur(6px);
-  padding: 1.5em 1em;
-  margin: 0 auto;
   margin-top: 2.5em;
-  float: none;
-  margin-bottom: 10px;
   text-align: center;
 }
 
@@ -18,4 +14,9 @@
   font-size: 2rem;
   font-weight: 500;
   margin-bottom: .75rem;
+}
+
+a {
+  color: #2F4858;
+  text-decoration: none;
 }
